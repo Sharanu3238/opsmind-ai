@@ -32,5 +32,21 @@ This project is a Retrieval-Augmented Generation (RAG) system that allows users 
 
 \## Author
 
-Sharanabasu
+Sharanabasu## 🧠 Architecture
+
+
+
+User Query → Embedding → MongoDB Retrieval → Context Building → Answer Generation
+
+
+
+---
+
+
+
+\## 📌 Project Type
+
+
+
+Enterprise AI System using Retrieval-Augmented Generation (RAG)
 
